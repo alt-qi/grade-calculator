@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     GradesHandler gh = new GradesHandler();
-    Button addGradeA, addGradeB, addGradeC, addGradeD, undoAddingGrade, resetGrades;
+    Button addGradeA, addGradeB, addGradeC, addGradeD, addGradeE, undoAddingGrade, resetGrades;
     TextView averageGradeDisplay, gradesListDisplay;
 
 
@@ -55,11 +55,13 @@ public class MainActivity extends AppCompatActivity {
         addGradeB = findViewById(R.id.add_grade_4);
         addGradeC = findViewById(R.id.add_grade_3);
         addGradeD = findViewById(R.id.add_grade_2);
+        addGradeE = findViewById(R.id.add_grade_1);
 
         addGradeA.setOnClickListener(new GradeAdder(Grade.A));
         addGradeB.setOnClickListener(new GradeAdder(Grade.B));
         addGradeC.setOnClickListener(new GradeAdder(Grade.C));
         addGradeD.setOnClickListener(new GradeAdder(Grade.D));
+        addGradeE.setOnClickListener(new GradeAdder(Grade.E));
 
 //        Удаление оценок
 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button_grade_A">
+        <item name="android:background">@drawable/button_grade_a</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/grade_A</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="button_grade_B">
+        <item name="android:background">@drawable/button_grade_b</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/grade_B</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="button_grade_C">
+        <item name="android:background">@drawable/button_grade_c</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/grade_C</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="button_grade_D">
+        <item name="android:background">@drawable/button_grade_d</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/grade_D</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="button_grade_E">
+        <item name="android:background">@drawable/button_grade_e</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/grade_E</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="clear_button">
+        <item name="android:background">@drawable/clear_button</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/grade_E</item>
+        <item name="android:clickable">true</item>
+    </style>
+</resources>

@@ -6,10 +6,17 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="gray">#e0e0e0</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="grade_A">#58e635</color>
-    <color name="grade_B">#9ce635</color>
-    <color name="grade_C">#e6e635</color>
-    <color name="grade_D">#e68235</color>
+    <color name="grade_A">#4aac25</color>
+    <color name="grade_B">#9fc426</color>
+    <color name="grade_C">#e7881e</color>
+    <color name="grade_D">#f04040</color>
+    <color name="grade_E">#bf2222</color>
+    <color name="tr_grade_A">#994aac25</color>
+    <color name="tr_grade_B">#999fc426</color>
+    <color name="tr_grade_C">#99e7881e</color>
+    <color name="tr_grade_D">#99f04040</color>
+    <color name="tr_grade_E">#99bf2222</color>
 
 </resources>
