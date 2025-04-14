@@ -1,2 +1,2 @@
 # grade-calculator
-Простое Android-приложение для расчёта среднего балла четвертной оценки.
+Simple Android app for calculating quarter grade.
